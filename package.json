@@ -1,0 +1,19 @@
+{
+  "name": "admin-system-services-backend",
+  "version": "0.0.1",
+  "description": "backend para sistema de localización de servicios",
+  "main": "index.js",
+  "repository": "https://github.com/Navau/admin-system-services-backend.git",
+  "author": "FORajidos",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
